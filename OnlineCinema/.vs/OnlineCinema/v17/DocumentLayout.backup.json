@@ -1,0 +1,473 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|d:\\daihocduytan\\m\u00F4n chuy\u00EAn ng\u00E0nh\\ki\u1EC3m th\u1EED \u0026 \u0111\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng ph\u1EA7n m\u1EC1m\\kiemthu\\onlinecinema\\onlinecinema\\quanly_ve.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|solutionrelative:onlinecinema\\quanly_ve.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\onlinecinema\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|solutionrelative:onlinecinema\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\onlinecinema\\quanly_nguoidung.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|solutionrelative:onlinecinema\\quanly_nguoidung.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\onlinecinema\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|solutionrelative:onlinecinema\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\onlinecinema\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|solutionrelative:onlinecinema\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\onlinecinema\\quanly_ve.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|solutionrelative:onlinecinema\\quanly_ve.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\onlinecinema\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|solutionrelative:onlinecinema\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\onlinecinema\\admin.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|solutionrelative:onlinecinema\\admin.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\onlinecinema\\quanly_nguoidung.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|solutionrelative:onlinecinema\\quanly_nguoidung.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\onlinecinema\\quanly_lichchieu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|solutionrelative:onlinecinema\\quanly_lichchieu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\onlinecinema\\main.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|solutionrelative:onlinecinema\\main.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\onlinecinema\\quanly_phongchieu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|solutionrelative:onlinecinema\\quanly_phongchieu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\onlinecinema\\quanly_phim.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|solutionrelative:onlinecinema\\quanly_phim.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\onlinecinema\\dangky_dangnhap.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|solutionrelative:onlinecinema\\dangky_dangnhap.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\onlinecinema\\dangky_dangnhap.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|solutionrelative:onlinecinema\\dangky_dangnhap.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\onlinecinema\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|solutionrelative:onlinecinema\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\onlinecinema\\main.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|solutionrelative:onlinecinema\\main.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\onlinecinema\\quanly_lichchieu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|solutionrelative:onlinecinema\\quanly_lichchieu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\onlinecinema\\chonghe.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|solutionrelative:onlinecinema\\chonghe.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\onlinecinema\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|solutionrelative:onlinecinema\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\onlinecinema\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|solutionrelative:onlinecinema\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\onlinecinema\\chitietphim.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|solutionrelative:onlinecinema\\chitietphim.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\onlinecinema\\chitietphim.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|solutionrelative:onlinecinema\\chitietphim.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\onlinecinema\\vedadat.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|solutionrelative:onlinecinema\\vedadat.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\onlinecinema\\giohang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|solutionrelative:onlinecinema\\giohang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\onlinecinema\\chonghe.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6A3CE42A-D29E-464C-B555-64CD6E891727}|OnlineCinema\\OnlineCinema.csproj|solutionrelative:onlinecinema\\chonghe.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 213,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin.Master",
+              "DocumentMoniker": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\Admin.Master",
+              "RelativeDocumentMoniker": "OnlineCinema\\Admin.Master",
+              "ToolTip": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\Admin.Master",
+              "RelativeToolTip": "OnlineCinema\\Admin.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-19T21:14:32.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\css\\site.css",
+              "RelativeDocumentMoniker": "OnlineCinema\\css\\site.css",
+              "ToolTip": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\css\\site.css",
+              "RelativeToolTip": "OnlineCinema\\css\\site.css",
+              "ViewState": "AgIAAJwCAAAAAAAAAAAiwLICAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-19T21:05:31.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Main.Master.cs",
+              "DocumentMoniker": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\Main.Master.cs",
+              "RelativeDocumentMoniker": "OnlineCinema\\Main.Master.cs",
+              "ToolTip": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\Main.Master.cs",
+              "RelativeToolTip": "OnlineCinema\\Main.Master.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:04:51.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuanLy_LichChieu.aspx",
+              "DocumentMoniker": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\QuanLy_LichChieu.aspx",
+              "RelativeDocumentMoniker": "OnlineCinema\\QuanLy_LichChieu.aspx",
+              "ToolTip": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\QuanLy_LichChieu.aspx",
+              "RelativeToolTip": "OnlineCinema\\QuanLy_LichChieu.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-23T07:09:52.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "OnlineCinema\\Dashboard.aspx",
+              "ToolTip": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\Dashboard.aspx",
+              "RelativeToolTip": "OnlineCinema\\Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-19T21:17:25.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuanLy_Ve.aspx",
+              "DocumentMoniker": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\QuanLy_Ve.aspx",
+              "RelativeDocumentMoniker": "OnlineCinema\\QuanLy_Ve.aspx",
+              "ToolTip": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\QuanLy_Ve.aspx",
+              "RelativeToolTip": "OnlineCinema\\QuanLy_Ve.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-23T07:09:56.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.Master.cs",
+              "DocumentMoniker": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\Admin.Master.cs",
+              "RelativeDocumentMoniker": "OnlineCinema\\Admin.Master.cs",
+              "ToolTip": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\Admin.Master.cs",
+              "RelativeToolTip": "OnlineCinema\\Admin.Master.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:15:57.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "admin.css",
+              "DocumentMoniker": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\css\\admin.css",
+              "RelativeDocumentMoniker": "OnlineCinema\\css\\admin.css",
+              "ToolTip": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\css\\admin.css",
+              "RelativeToolTip": "OnlineCinema\\css\\admin.css",
+              "ViewState": "AgIAAH0BAAAAAAAAAAAAAIQBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-19T21:16:37.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuanLy_NguoiDung.aspx.cs",
+              "DocumentMoniker": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\QuanLy_NguoiDung.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineCinema\\QuanLy_NguoiDung.aspx.cs",
+              "ToolTip": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\QuanLy_NguoiDung.aspx.cs",
+              "RelativeToolTip": "OnlineCinema\\QuanLy_NguoiDung.aspx.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAADwvzQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:36:00.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.aspx.cs",
+              "DocumentMoniker": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\Dashboard.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineCinema\\Dashboard.aspx.cs",
+              "ToolTip": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\Dashboard.aspx.cs",
+              "RelativeToolTip": "OnlineCinema\\Dashboard.aspx.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:18:17.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuanLy_Ve.aspx.cs",
+              "DocumentMoniker": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\QuanLy_Ve.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineCinema\\QuanLy_Ve.aspx.cs",
+              "ToolTip": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\QuanLy_Ve.aspx.cs",
+              "RelativeToolTip": "OnlineCinema\\QuanLy_Ve.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAL4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T00:32:02.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ChiTietPhim.aspx.cs",
+              "DocumentMoniker": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\ChiTietPhim.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineCinema\\ChiTietPhim.aspx.cs",
+              "ToolTip": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\ChiTietPhim.aspx.cs",
+              "RelativeToolTip": "OnlineCinema\\ChiTietPhim.aspx.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswG0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T17:58:19.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DangKy_DangNhap.aspx.cs",
+              "DocumentMoniker": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\DangKy_DangNhap.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineCinema\\DangKy_DangNhap.aspx.cs",
+              "ToolTip": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\DangKy_DangNhap.aspx.cs",
+              "RelativeToolTip": "OnlineCinema\\DangKy_DangNhap.aspx.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAiwLUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:34:12.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "QuanLy_LichChieu.aspx.cs",
+              "DocumentMoniker": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\QuanLy_LichChieu.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineCinema\\QuanLy_LichChieu.aspx.cs",
+              "ToolTip": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\QuanLy_LichChieu.aspx.cs",
+              "RelativeToolTip": "OnlineCinema\\QuanLy_LichChieu.aspx.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAuwAcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T16:44:44.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ChonGhe.aspx.cs",
+              "DocumentMoniker": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\ChonGhe.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineCinema\\ChonGhe.aspx.cs",
+              "ToolTip": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\ChonGhe.aspx.cs",
+              "RelativeToolTip": "OnlineCinema\\ChonGhe.aspx.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T00:31:00.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuanLy_NguoiDung.aspx",
+              "DocumentMoniker": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\QuanLy_NguoiDung.aspx",
+              "RelativeDocumentMoniker": "OnlineCinema\\QuanLy_NguoiDung.aspx",
+              "ToolTip": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\QuanLy_NguoiDung.aspx",
+              "RelativeToolTip": "OnlineCinema\\QuanLy_NguoiDung.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-23T07:09:57.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Main.Master",
+              "DocumentMoniker": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\Main.Master",
+              "RelativeDocumentMoniker": "OnlineCinema\\Main.Master",
+              "ToolTip": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\Main.Master",
+              "RelativeToolTip": "OnlineCinema\\Main.Master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-16T16:29:37.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DangKy_DangNhap.aspx",
+              "DocumentMoniker": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\DangKy_DangNhap.aspx",
+              "RelativeDocumentMoniker": "OnlineCinema\\DangKy_DangNhap.aspx",
+              "ToolTip": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\DangKy_DangNhap.aspx",
+              "RelativeToolTip": "OnlineCinema\\DangKy_DangNhap.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-06T18:00:48.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineCinema\\Default.aspx.cs",
+              "ToolTip": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\Default.aspx.cs",
+              "RelativeToolTip": "OnlineCinema\\Default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T18:12:01.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QuanLy_PhongChieu.aspx",
+              "DocumentMoniker": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\QuanLy_PhongChieu.aspx",
+              "RelativeDocumentMoniker": "OnlineCinema\\QuanLy_PhongChieu.aspx",
+              "ToolTip": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\QuanLy_PhongChieu.aspx",
+              "RelativeToolTip": "OnlineCinema\\QuanLy_PhongChieu.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-23T07:09:54.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QuanLy_Phim.aspx",
+              "DocumentMoniker": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\QuanLy_Phim.aspx",
+              "RelativeDocumentMoniker": "OnlineCinema\\QuanLy_Phim.aspx",
+              "ToolTip": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\QuanLy_Phim.aspx",
+              "RelativeToolTip": "OnlineCinema\\QuanLy_Phim.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-23T07:09:49.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "VeDaDat.aspx",
+              "DocumentMoniker": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\VeDaDat.aspx",
+              "RelativeDocumentMoniker": "OnlineCinema\\VeDaDat.aspx",
+              "ToolTip": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\VeDaDat.aspx",
+              "RelativeToolTip": "OnlineCinema\\VeDaDat.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-23T07:10:01.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GioHang.aspx",
+              "DocumentMoniker": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\GioHang.aspx",
+              "RelativeDocumentMoniker": "OnlineCinema\\GioHang.aspx",
+              "ToolTip": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\GioHang.aspx",
+              "RelativeToolTip": "OnlineCinema\\GioHang.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-23T07:09:46.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ChonGhe.aspx",
+              "DocumentMoniker": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\ChonGhe.aspx",
+              "RelativeDocumentMoniker": "OnlineCinema\\ChonGhe.aspx",
+              "ToolTip": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\ChonGhe.aspx",
+              "RelativeToolTip": "OnlineCinema\\ChonGhe.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-23T07:09:39.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ChiTietPhim.aspx",
+              "DocumentMoniker": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\ChiTietPhim.aspx",
+              "RelativeDocumentMoniker": "OnlineCinema\\ChiTietPhim.aspx",
+              "ToolTip": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\ChiTietPhim.aspx",
+              "RelativeToolTip": "OnlineCinema\\ChiTietPhim.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-23T07:09:36.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\Default.aspx",
+              "RelativeDocumentMoniker": "OnlineCinema\\Default.aspx",
+              "ToolTip": "D:\\DAIHOCDUYTAN\\M\u00F4n Chuy\u00EAn Ng\u00E0nh\\Ki\u1EC3m Th\u1EED \u0026 \u0110\u1EA3m B\u1EA3o Ch\u1EA5t L\u01B0\u1EE3ng Ph\u1EA7n M\u1EC1m\\KiemThu\\OnlineCinema\\OnlineCinema\\Default.aspx",
+              "RelativeToolTip": "OnlineCinema\\Default.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-23T07:09:29.971Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 187,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

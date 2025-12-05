@@ -1,0 +1,140 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="OnlineCinema.Main" %>
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title>OnlineCinema - Xem Phim Chất Lượng Cao</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="css/site.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <header class="header">
+            <div class="navbar">
+                
+                <div class="logoo-container">
+                    <!-- <a href="Default.aspx" class="navbar-brand">
+    <i class="fas fa-film"></i> OnlineCinema
+</a>
+-->
+                    <a href="Default.aspx" class="navbar-brand">
+                        <img src="images/logo.png" alt="Your Logo" class="custom-logo" /> OnlineCinema
+                    </a>
+                </div>
+                <div class="nav-links">
+                    <!-- Menu cho người dùng thường -->
+                    <asp:Panel ID="pnlUserNav" runat="server" Visible="true">
+                        <a href="Default.aspx" class="nav-link active">TRANG CHỦ</a>
+                        <!--<a href="Booking.aspx" class="nav-link">ĐẶT VÉ</a>-->
+                        <a href="VeDaDat.aspx" class="nav-link">XEM VÉ</a>
+                    </asp:Panel>
+                    <!-- Menu cho quản trị viên -->
+                    <asp:Panel ID="pnlAdminNav" runat="server" Visible="false" CssClass="admin-menu">
+                        <a href="QuanLy_Phim.aspx" class="nav-link">QUẢN LÝ PHIM</a> <!-- Đổi thành QuanLy_Phim.aspx -->
+                        <a href="QuanLy_LichChieu.aspx" class="nav-link">QUẢN LÝ LỊCH CHIẾU</a>
+                        <a href="QuanLy_PhongChieu.aspx" class="nav-link">QUẢN LÝ PHÒNG CHIẾU</a>
+                        <a href="QuanLy_Ve.aspx" class="nav-link">QUẢN LÝ VÉ</a>
+                        <a href="QuanLy_NguoiDung.aspx" class="nav-link">QUẢN LÝ NGƯỜI DÙNG</a>
+                    </asp:Panel>
+                    <asp:Panel ID="pnlUserMenu" runat="server">
+                        <asp:PlaceHolder ID="phLoginRegister" runat="server" Visible="true">
+                            <div class="user-menu">
+                                <a href="#" class="nav-link user-icon">
+                                    <img src="images/user.png" alt="User" /> ĐĂNG NHẬP / ĐĂNG KÝ
+                                </a>
+                                <div class="user-dropdown">
+                                    <a href="DangKy_DangNhap.aspx?tab=login">ĐĂNG NHẬP</a>
+                                    <a href="DangKy_DangNhap.aspx?tab=register">ĐĂNG KÝ</a>
+                                </div>
+                            </div>
+                        </asp:PlaceHolder>
+                        <asp:PlaceHolder ID="phUserProfile" runat="server" Visible="false">
+                            <div class="user-menu">
+                                <a href="#" class="nav-link user-icon">
+                                    <img src="images/user.png" alt="User" /> Hi <asp:Label ID="lblUserName" runat="server"></asp:Label>
+                                </a>
+                                <div class="user-dropdown">
+                                    
+                                    <asp:LinkButton ID="btnLogout" runat="server" OnClick="btnLogout_Click">Đăng xuất</asp:LinkButton>
+                                </div>
+                            </div>
+                        </asp:PlaceHolder>
+                    </asp:Panel>
+                    <asp:HyperLink ID="lnkCart" runat="server" NavigateUrl="~/GioHang.aspx" CssClass="nav-link cart-icon">
+                        <img src="images/giohang.png" alt="Giỏ hàng" />
+                        <asp:Label ID="lblCartCount" runat="server" CssClass="cart-badge"></asp:Label>
+                    </asp:HyperLink>
+                </div>
+            </div>
+        </header>
+
+        <main class="main-content">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </main>
+
+        <footer class="footer">
+            <h2>Bản đồ</h2>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4852.758694519835!2d108.15643337605698!3d16.05103273462585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31421938d61a3ce5%3A0x29d80f3ebbdcb44a!2zxJDhuqFpIEjhu41jIER1eSBUw6JuIEjDsmEgS2jDoW5oIE5hbQ!5e1!3m2!1svi!2s!4v1762453212207!5m2!1svi!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>Về OnlineCinema</h3>
+                    <ul>
+                        <li>Giới thiệu</li>
+                        <li>Liên hệ</li>
+                        <li>Điều khoản sử dụng</li>
+                        <li>Chính sách bảo mật</li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h3>Rạp chiếu phim</h3>
+                    <ul>
+                        <li>Hệ thống rạp</li>
+                        <li>Phòng chiếu đặc biệt</li>
+                        <li>Sự kiện</li>
+                        <li>Khuyến mãi</li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h3>Hỗ trợ</h3>
+                    <ul>
+                        <li>Câu hỏi thường gặp</li>
+                        <li>Hướng dẫn đặt vé</li>
+                        <li>Phương thức thanh toán</li>
+                        <li>Góp ý</li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h3>Kết nối với chúng tôi</h3>
+                    <div class="social-links">
+                        <a href="https://www.facebook.com/vothai613"><i class="fab fa-facebook-f fa-lg"></i></a>
+                        <a href="https://www.youtube.com/watch?v=LEDPYV7_2Y8&t=24s"><i class="fab fa-youtube fa-lg"></i></a>
+                    </div>
+                    <p style="margin-top: 15px">
+                        <i class="fas fa-phone"></i> Hotline: 1900 xxxx xx<br>
+                        <i class="fas fa-envelope"></i> Email: support@onlinecinema.vn
+                    </p>
+                </div>
+            </div>
+            <div class="copyright">
+                © <%= DateTime.Now.Year %> OnlineCinema. Tất cả quyền được bảo lưu.
+            </div>
+        </footer>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script>
+            $(document).ready(function () {
+                const currentPage = window.location.pathname.split("/").pop();
+                $(".nav-link").removeClass("active");
+                $(`.nav-link[href='${currentPage}']`).addClass("active");
+                if (currentPage === "" || currentPage === "/") {
+                    $(".nav-link[href='Default.aspx']").addClass("active");
+                }
+            });
+        </script>
+    </form>
+</body>
+</html>

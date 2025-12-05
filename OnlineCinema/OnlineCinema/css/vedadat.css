@@ -1,0 +1,159 @@
+﻿.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.booked-tickets-section {
+    margin: 40px 0;
+}
+
+.booked-tickets-section h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+    color: #333;
+}
+
+.ticket-list {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    padding: 20px;
+}
+
+.ticket-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.ticket-table th,
+.ticket-table td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.ticket-table th {
+    background-color: #f8f9fa;
+    font-weight: bold;
+    color: #333;
+}
+
+.ticket-table tr:hover {
+    background-color: #f1f1f1;
+}
+
+.btn-cancel {
+    padding: 8px 16px;
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    margin-right: 5px;
+}
+
+.btn-cancel:hover {
+    background-color: #c82333;
+}
+
+.btn-eticket {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.9rem;
+}
+
+.btn-eticket:hover {
+    background-color: #0056b3;
+}
+
+.empty-tickets {
+    text-align: center;
+    color: #777;
+    font-size: 1.2rem;
+    margin: 20px 0;
+    display: block;
+}
+
+.eticket-panel {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    padding: 20px;
+    width: 400px;
+    z-index: 1000;
+    text-align: center;
+}
+
+.eticket-content {
+    margin-bottom: 20px;
+}
+
+.eticket-content h3 {
+    font-size: 1.4rem;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.eticket-content p {
+    margin: 10px 0;
+    font-size: 1rem;
+    color: #555;
+}
+
+.btn-close-eticket {
+    padding: 10px 20px;
+    background-color: #6c757d;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.9rem;
+}
+
+.btn-close-eticket:hover {
+    background-color: #5a6268;
+}
+
+@media (max-width: 768px) {
+    .ticket-table {
+        font-size: 0.9rem;
+    }
+
+    .ticket-table th,
+    .ticket-table td {
+        padding: 8px;
+    }
+
+    .btn-cancel,
+    .btn-eticket {
+        padding: 6px 12px;
+        font-size: 0.8rem;
+    }
+
+    .eticket-panel {
+        width: 90%;
+    }
+}        .ticket-table td {
+            padding: 8px;
+        }
+
+            .ticket-table td:nth-child(4) { /* Cột Ghế Ngồi trên mobile */
+                max-width: 100px;
+            }
+
+    .btn-cancel, .btn-eticket {
+        padding: 6px 12px;
+        font-size: 0.8rem;
+    }
+}

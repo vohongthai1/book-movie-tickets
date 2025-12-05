@@ -1,0 +1,138 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="OnlineCinema.Admin" %>
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title>OnlineCinema - Admin Panel</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="css/admin.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="admin-wrapper">
+            <!-- Sidebar -->
+            <aside class="admin-sidebar">
+                <div class="sidebar-header">
+                    <a href="Dashboard.aspx" class="brand">
+                        <img src="images/logo.png" alt="Logo" class="brand-logo" />
+                        <span>OnlineCinema</span>
+                    </a>
+                </div>
+                
+                <nav class="sidebar-nav">
+                    <a href="Dashboard.aspx" class="nav-item" data-page="Dashboard.aspx">
+                        <i class="fas fa-chart-line"></i>
+                        <span>Dashboard</span>
+                    </a>
+                    
+                    <a href="QuanLy_Phim.aspx" class="nav-item" data-page="QuanLy_Phim.aspx">
+                        <i class="fas fa-film"></i>
+                        <span>Quản lý Phim</span>
+                    </a>
+                    
+                    <a href="QuanLy_LichChieu.aspx" class="nav-item" data-page="QuanLy_LichChieu.aspx">
+                        <i class="fas fa-calendar-alt"></i>
+                        <span>Quản lý Lịch chiếu</span>
+                    </a>
+                    
+                    <a href="QuanLy_PhongChieu.aspx" class="nav-item" data-page="QuanLy_PhongChieu.aspx">
+                        <i class="fas fa-door-open"></i>
+                        <span>Quản lý Phòng chiếu</span>
+                    </a>
+                    
+                    <a href="QuanLy_Ve.aspx" class="nav-item" data-page="QuanLy_Ve.aspx">
+                        <i class="fas fa-ticket-alt"></i>
+                        <span>Quản lý Vé</span>
+                    </a>
+                    
+                    <a href="QuanLy_NguoiDung.aspx" class="nav-item" data-page="QuanLy_NguoiDung.aspx">
+                        <i class="fas fa-users"></i>
+                        <span>Quản lý Người dùng</span>
+                    </a>
+                    
+                    <div class="nav-divider"></div>
+                    
+                    <a href="Default.aspx" class="nav-item">
+                        <i class="fas fa-home"></i>
+                        <span>Về trang chủ</span>
+                    </a>
+                </nav>
+            </aside>
+            
+            <!-- Main Content -->
+            <div class="admin-main">
+                <!-- Top Bar -->
+                <header class="admin-header">
+                    <div class="header-left">
+                        <button type="button" class="btn-toggle-sidebar" id="btnToggleSidebar">
+                            <i class="fas fa-bars"></i>
+                        </button>
+                    </div>
+                    
+                    <div class="header-right">
+                        <div class="user-menu">
+                            <button type="button" class="user-button">
+                                <img src="images/user.png" alt="User" class="user-avatar" />
+                                <span class="user-name">
+                                    <asp:Label ID="lblAdminName" runat="server"></asp:Label>
+                                </span>
+                                <i class="fas fa-chevron-down"></i>
+                            </button>
+                            
+                            <div class="user-dropdown">
+                                <div class="dropdown-header">
+                                    <strong><asp:Label ID="lblAdminEmail" runat="server"></asp:Label></strong>
+                                    <span class="user-role">Quản trị viên</span>
+                                </div>
+                                <div class="dropdown-divider"></div>
+                                <asp:LinkButton ID="btnLogout" runat="server" OnClick="btnLogout_Click" CssClass="dropdown-item">
+                                    <i class="fas fa-sign-out-alt"></i> Đăng xuất
+                                </asp:LinkButton>
+                            </div>
+                        </div>
+                    </div>
+                </header>
+                
+                <!-- Content Area -->
+                <main class="admin-content">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </main>
+            </div>
+        </div>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script>
+            $(document).ready(function() {
+                // Toggle sidebar
+                $('#btnToggleSidebar').click(function() {
+                    $('.admin-sidebar').toggleClass('collapsed');
+                    $('.admin-main').toggleClass('expanded');
+                });
+                
+                // Active menu item
+                const currentPage = window.location.pathname.split("/").pop();
+                $('.nav-item').removeClass('active');
+                $(`.nav-item[data-page='${currentPage}']`).addClass('active');
+                
+                // User dropdown
+                $('.user-button').click(function(e) {
+                    e.stopPropagation();
+                    $('.user-dropdown').toggleClass('show');
+                });
+                
+                $(document).click(function() {
+                    $('.user-dropdown').removeClass('show');
+                });
+                
+                $('.user-dropdown').click(function(e) {
+                    e.stopPropagation();
+                });
+            });
+        </script>
+    </form>
+</body>
+</html>

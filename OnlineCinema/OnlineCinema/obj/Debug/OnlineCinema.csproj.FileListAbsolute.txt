@@ -1,0 +1,305 @@
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\OnlineCinema.dll.config
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\OnlineCinema.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\OnlineCinema.pdb
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\csc.exe
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\csc.exe.config
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\csc.rsp
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\csi.exe
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\csi.exe.config
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\csi.rsp
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\System.AppContext.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\System.Collections.Immutable.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\System.Console.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\System.Globalization.Calendars.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\System.IO.Compression.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\System.IO.FileSystem.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\System.Net.Http.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\System.Net.Sockets.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\System.Reflection.Metadata.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\System.ValueTuple.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\System.Xml.XPath.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\vbc.exe
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\vbc.exe.config
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\vbc.rsp
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\VBCSCompiler.exe
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\roslyn\VBCSCompiler.exe.config
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DuAnWEB\OnlineCinema\OnlineCinema\obj\Debug\OnlineCinema.csproj.AssemblyReference.cache
+D:\DuAnWEB\OnlineCinema\OnlineCinema\obj\Debug\OnlineCinema.csproj.CoreCompileInputs.cache
+D:\DuAnWEB\OnlineCinema\OnlineCinema\obj\Debug\OnlineCi.880B3493.Up2Date
+D:\DuAnWEB\OnlineCinema\OnlineCinema\obj\Debug\OnlineCinema.dll
+D:\DuAnWEB\OnlineCinema\OnlineCinema\obj\Debug\OnlineCinema.pdb
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\obj\Debug\OnlineCinema.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\obj\Debug\OnlineCinema.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\OnlineCinema.dll.config
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\OnlineCinema.dll
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\OnlineCinema.pdb
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\roslyn\csc.exe
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\roslyn\csc.exe.config
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\roslyn\csc.rsp
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\roslyn\csi.exe
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\roslyn\csi.exe.config
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\roslyn\csi.rsp
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\roslyn\System.Buffers.dll
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\roslyn\System.Memory.dll
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\roslyn\vbc.exe
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\roslyn\vbc.exe.config
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\roslyn\vbc.rsp
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\obj\Debug\OnlineCi.880B3493.Up2Date
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\obj\Debug\OnlineCinema.dll
+C:\Users\ACER\Downloads\OnlineCinema\OnlineCinema\obj\Debug\OnlineCinema.pdb
+D:\code\OnlineCinema\OnlineCinema\bin\OnlineCinema.dll.config
+D:\code\OnlineCinema\OnlineCinema\bin\OnlineCinema.dll
+D:\code\OnlineCinema\OnlineCinema\bin\OnlineCinema.pdb
+D:\code\OnlineCinema\OnlineCinema\bin\roslyn\csc.exe
+D:\code\OnlineCinema\OnlineCinema\bin\roslyn\csc.exe.config
+D:\code\OnlineCinema\OnlineCinema\bin\roslyn\csc.rsp
+D:\code\OnlineCinema\OnlineCinema\bin\roslyn\csi.exe
+D:\code\OnlineCinema\OnlineCinema\bin\roslyn\csi.exe.config
+D:\code\OnlineCinema\OnlineCinema\bin\roslyn\csi.rsp
+D:\code\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\code\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\code\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\code\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\code\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\code\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\code\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\code\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\code\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\code\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\code\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.Managed.Core.targets
+D:\code\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\code\OnlineCinema\OnlineCinema\bin\roslyn\System.Buffers.dll
+D:\code\OnlineCinema\OnlineCinema\bin\roslyn\System.Collections.Immutable.dll
+D:\code\OnlineCinema\OnlineCinema\bin\roslyn\System.Memory.dll
+D:\code\OnlineCinema\OnlineCinema\bin\roslyn\System.Numerics.Vectors.dll
+D:\code\OnlineCinema\OnlineCinema\bin\roslyn\System.Reflection.Metadata.dll
+D:\code\OnlineCinema\OnlineCinema\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\code\OnlineCinema\OnlineCinema\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\code\OnlineCinema\OnlineCinema\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\code\OnlineCinema\OnlineCinema\bin\roslyn\vbc.exe
+D:\code\OnlineCinema\OnlineCinema\bin\roslyn\vbc.exe.config
+D:\code\OnlineCinema\OnlineCinema\bin\roslyn\vbc.rsp
+D:\code\OnlineCinema\OnlineCinema\bin\roslyn\VBCSCompiler.exe
+D:\code\OnlineCinema\OnlineCinema\bin\roslyn\VBCSCompiler.exe.config
+D:\code\OnlineCinema\OnlineCinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\code\OnlineCinema\OnlineCinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\code\OnlineCinema\OnlineCinema\obj\Debug\OnlineCinema.csproj.AssemblyReference.cache
+D:\code\OnlineCinema\OnlineCinema\obj\Debug\OnlineCinema.csproj.CoreCompileInputs.cache
+D:\code\OnlineCinema\OnlineCinema\obj\Debug\OnlineCi.880B3493.Up2Date
+D:\code\OnlineCinema\OnlineCinema\obj\Debug\OnlineCinema.dll
+D:\code\OnlineCinema\OnlineCinema\obj\Debug\OnlineCinema.pdb
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\OnlineCinema.dll.config
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\OnlineCinema.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\OnlineCinema.pdb
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\roslyn\csc.exe
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\roslyn\csc.exe.config
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\roslyn\csc.rsp
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\roslyn\csi.exe
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\roslyn\csi.exe.config
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\roslyn\csi.rsp
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\roslyn\System.Buffers.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\roslyn\System.Collections.Immutable.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\roslyn\System.Memory.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\roslyn\System.Numerics.Vectors.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\roslyn\System.Reflection.Metadata.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\roslyn\vbc.exe
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\roslyn\vbc.exe.config
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\roslyn\vbc.rsp
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\roslyn\VBCSCompiler.exe
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\roslyn\VBCSCompiler.exe.config
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\obj\Debug\OnlineCinema.csproj.AssemblyReference.cache
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\obj\Debug\OnlineCinema.csproj.CoreCompileInputs.cache
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\obj\Debug\OnlineCi.880B3493.Up2Date
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\obj\Debug\OnlineCinema.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Thương Mại Điện Tử\Đồ Án\IS 385 FB_NHOM 11\OnlineCinema\OnlineCinema\obj\Debug\OnlineCinema.pdb
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\OnlineCinema.dll.config
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\OnlineCinema.dll
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\OnlineCinema.pdb
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\csc.exe
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\csc.exe.config
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\csc.rsp
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\csi.exe
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\csi.exe.config
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\csi.rsp
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\System.Buffers.dll
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\System.Memory.dll
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\vbc.exe
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\vbc.exe.config
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\vbc.rsp
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\VBCSCompiler.exe
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\obj\Debug\OnlineCinema.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\obj\Debug\OnlineCinema.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\obj\Debug\OnlineCi.880B3493.Up2Date
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\obj\Debug\OnlineCinema.dll
+C:\Users\LENOVO\Downloads\KiemThu\OnlineCinema\OnlineCinema\obj\Debug\OnlineCinema.pdb
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\OnlineCinema.dll.config
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\OnlineCinema.dll
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\OnlineCinema.pdb
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\csc.exe
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\csc.exe.config
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\csc.rsp
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\csi.exe
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\csi.exe.config
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\csi.rsp
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\System.Buffers.dll
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\System.Memory.dll
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\vbc.exe
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\vbc.exe.config
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\vbc.rsp
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\obj\Debug\OnlineCinema.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\obj\Debug\OnlineCinema.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\obj\Debug\OnlineCi.880B3493.Up2Date
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\obj\Debug\OnlineCinema.dll
+C:\Users\ACER\Downloads\KiemThu\KiemThu\OnlineCinema\OnlineCinema\obj\Debug\OnlineCinema.pdb
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\OnlineCinema.dll.config
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\OnlineCinema.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\OnlineCinema.pdb
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\csc.exe
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\csc.exe.config
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\csc.rsp
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\csi.exe
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\csi.exe.config
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\csi.rsp
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\System.Buffers.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\System.Collections.Immutable.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\System.Memory.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\System.Numerics.Vectors.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\System.Reflection.Metadata.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\vbc.exe
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\vbc.exe.config
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\vbc.rsp
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\VBCSCompiler.exe
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\roslyn\VBCSCompiler.exe.config
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\obj\Debug\OnlineCinema.csproj.AssemblyReference.cache
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\obj\Debug\OnlineCinema.csproj.CoreCompileInputs.cache
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\obj\Debug\OnlineCi.880B3493.Up2Date
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\obj\Debug\OnlineCinema.dll
+D:\DAIHOCDUYTAN\Môn Chuyên Ngành\Kiểm Thử & Đảm Bảo Chất Lượng Phần Mềm\KiemThu\OnlineCinema\OnlineCinema\obj\Debug\OnlineCinema.pdb
