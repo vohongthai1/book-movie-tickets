@@ -6,7 +6,7 @@ OnlineCinema là một ứng dụng web ASP.NET Web Forms cho phép người dù
 
 ## Tính năng chính
 
-### 🎬 Cho người dùng
+### Cho người dùng
 - **Xem danh sách phim**: Duyệt qua các phim đang chiếu
 - **Chi tiết phim**: Xem thông tin chi tiết về phim
 - **Chọn ghế**: Lựa chọn ghế ngồi trực quan
@@ -15,7 +15,7 @@ OnlineCinema là một ứng dụng web ASP.NET Web Forms cho phép người dù
 - **Lịch sử vé**: Xem các vé đã đặt
 - **Đăng ký/Đăng nhập**: Quản lý tài khoản người dùng
 
-### 👨‍💼 Cho quản trị viên
+###  Cho quản trị viên
 - **Quản lý phim**: Thêm, sửa, xóa phim
 - **Quản lý lịch chiếu**: Tạo và quản lý lịch trình chiếu phim
 - **Quản lý phòng chiếu**: Quản lý thông tin các phòng chiếu
